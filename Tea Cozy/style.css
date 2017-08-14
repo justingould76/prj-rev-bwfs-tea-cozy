@@ -1,12 +1,12 @@
 header {
-display: flex;
-justify-content: space-between;
-position: fixed;
-height: 89px;
-width: 1350px;
-background-color: black;
-border-bottom: 1px solid seashell;
-z-index: 3;
+        display: flex;
+        justify-content: space-between;
+        position: fixed;
+        height: 89px;
+        width: 1350px;
+        background-color: black;
+        border-bottom: 1px solid seashell;
+        z-index: 3;
 }
 
 .logo {
@@ -35,131 +35,131 @@ body {
 
 
 #mission h2 {
-    height: 58px; 
-    width: 1200px;
-    text-align: center;
-    margin-top: 350px;
-    background-color: black;
-    padding-top: 13px;
-    margin-bottom: 0px;
-    padding-bottom: 0px;
+             height: 58px; 
+             width: 1200px;
+             text-align: center;
+             margin-top: 350px;
+             background-color: black;
+             padding-top: 13px;
+             margin-bottom: 0px;
+             padding-bottom: 0px;
 }
 
 #mission h4 {
-	height: 45px;
-	width: 1200px;
-	text-align: center;
-	background-color: black;
-	margin: 0px;
-	padding: 0px;
+	     height: 45px;
+	     width: 1200px;
+	     text-align: center;
+	     background-color: black;
+	     margin: 0px;
+	     padding: 0px;
 		}
 
 #mission {
-	width: 1200px;
-	height:  700px;
-	margin-left: 70px;
-	vertical-align: middle;
-	text-align: center;
-	background-image: url("./resources/img-mission-background.jpg");
-	background-position: center;
-	background-repeat: no-repeat;
-	display: block;
+	  width: 1200px;
+	  height:  700px;
+	  margin-left: 70px;
+	  vertical-align: middle;
+	  text-align: center;
+	  background-image: url("./resources/img-mission-background.jpg");
+	  background-position: center;
+	  background-repeat: no-repeat;
+	  display: block;
 }
 
 #featuredtea {
-	width: 1000px;
-	text-align: center;
-	margin-left: 170px;
+	      width: 1000px;
+	      text-align: center;
+	      margin-left: 170px;
 
 }
 
 #featuredtea #pics {
-	display: flex;
-	align-items: center;
-	flex-direction: row;
-	width: 300px;
-    height: 200px;
-    padding: 15px;
-    margin-left: -15px;
+	            display: flex;
+	            align-items: center;
+	            flex-direction: row;
+	            width: 300px;
+                    height: 200px;
+                    padding: 15px;
+                    margin-left: -15px;
 }
 
 #featuredtea #pic {
-	display: flex;
-	align-items: center;
-	flex-direction: row;
-	width: 300px;
-    height: 200px;
-    padding: 15px;
-    margin-left: 45px;
+	           display: flex;
+	           align-items: center;
+	           flex-direction: row;
+	           width: 300px;
+                   height: 200px;
+                   padding: 15px;
+                   margin-left: 45px;
 }
 
 #locations {
-	background-image: url("./resources/img-locations-background.jpg");
-	background-repeat: no-repeat;
-	background-position: center;
-	position: relative;
-	display: table;
-	align-items: center;
-	text-align: center;
-	flex-direction: row;
-	width: 100%;
-    height: 100%;
-    padding-left: 40px;
-    padding-bottom: 400px;
-    margin-top: 65px;
-    margin: auto;
+	    background-image: url("./resources/img-locations-background.jpg");
+	    background-repeat: no-repeat;
+	    background-position: center;
+	    position: relative;
+	    display: table;
+	    align-items: center;
+	    text-align: center;
+	    flex-direction: row;
+	    width: 100%;
+            height: 100%;
+            padding-left: 40px;
+            padding-bottom: 400px;
+            margin-top: 65px;
+            margin: auto;
 }
 
 
 #downtown {
-  width: 300px;
-  height: 225px;
-  padding: 20px;
-  text-align: center;
-  position: absolute;
-  top: 45%;
-  left: 20%;
-  background-color: black;
-  opacity: 1;
-  margin: -70px 0 0 -170px;
+           width: 300px;
+           height: 225px;
+           padding: 20px;
+           text-align: center;
+           position: absolute;
+           top: 45%;
+           left: 20%;
+           background-color: black;
+           opacity: 1;
+           margin: -70px 0 0 -170px;
 }
 
 #eastbayside {
-  width: 300px;
-  height: 225px;
-  padding: 20px;
-  text-align: center; 
-  position: absolute;
-  top: 45%;
-  left: 50%;
-  background-color: black;
-  opacity: 1;
-  margin: -70px 0 0 -170px;
+              width: 300px;
+              height: 225px;
+              padding: 20px;
+              text-align: center; 
+              position: absolute;
+              top: 45%;
+              left: 50%;
+              background-color: black;
+              opacity: 1;
+              margin: -70px 0 0 -170px;
 }
 
 #oakdale {
-  width: 300px;
-  height: 225px;
-  padding: 20px;
-  text-align: center;
-  position: absolute;
-  top: 45%;
-  left: 80%;
-  background-color: black;
-  opacity: 1;
-  margin: -70px 0 0 -170px;
+          width: 300px;
+          height: 225px;
+          padding: 20px;
+          text-align: center;
+          position: absolute;
+          top: 45%;
+          left: 80%;
+          background-color: black;
+          opacity: 1;
+          margin: -70px 0 0 -170px;
 }
 
 #footer {
-  color: seashell;
-  position: static;
-  display: block;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  padding: 1em;
-  background-color: black;
-  text-align: center;
+         color: seashell;
+         position: static;
+         display: block;
+         right: 0;
+         bottom: 0;
+         left: 0;
+         padding: 1em;
+         background-color: black;
+         text-align: center;
 }
 
 
