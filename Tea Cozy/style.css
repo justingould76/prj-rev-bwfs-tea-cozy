@@ -66,14 +66,14 @@ body {
 	  display: block;
 }
 
-#featuredtea {
+#featuredTea {
 	      width: 1000px;
 	      text-align: center;
 	      margin-left: 170px;
 
 }
 
-#featuredtea #pics {
+#featuredTea #pics {
 	            display: flex;
 	            align-items: center;
 	            flex-direction: row;
@@ -83,12 +83,12 @@ body {
                     margin-left: -15px;
 }
 
-.tea-item {
+.teaItem {
            display: flex;
            flex-direction: column;
 }
 
-#featuredtea #pic {
+#featuredTea #pic {
 	           display: flex;
 	           align-items: center;
 	           flex-direction: row;
@@ -129,7 +129,7 @@ body {
            margin: -70px 0 0 -170px;
 }
 
-#eastbayside {
+#eastBayside {
               width: 300px;
               height: 225px;
               padding: 20px;
